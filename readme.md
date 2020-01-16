@@ -1,3 +1,32 @@
+
+Bonjour Madame,
+
+GROUPE:
+Assoumou Anghai yann
+Akdare Fazul
+Tanau Jean Marc
+
+-Fonctionnalite
+Sécurité très élevé (Admin - Default)
+Framework utilise Laravel
+Ajax Intégrer au niveau de la recherche
+Sécurité sur les formulaires
+Inscription et récupération de mot de passe par mot de passe oublie 
+Reserver un appartement dans une résidence donne
+Voir sa réservation 
+CRUD 
+
+Les pages sont les suivantes 
+/ => la page d'accueil
+/admin => pour passer en admin 
+
+
+Je vous ai joint de 2 fichier le projet et sa base de donnee
+
+Cordialement Yann Assoumou.
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
